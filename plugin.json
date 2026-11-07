@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "getyoutubetranscript",
+  "version": "1.0.0",
+  "description": "YouTube transcripts with timestamps, video search, channel and playlist browsing through the GetYouTubeTranscript remote MCP server, plus four skills for fetching, searching, summarizing and researching channels.",
+  "author": {
+    "name": "TubeAgentKit",
+    "url": "https://getyoutubetranscript.com"
+  },
+  "homepage": "https://getyoutubetranscript.com",
+  "repository": "https://github.com/tubeagentkit/youtube-transcript-hermes-plugin",
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "transcript",
+    "captions",
+    "subtitles",
+    "video-search",
+    "channel",
+    "playlist",
+    "mcp"
+  ]
+}
